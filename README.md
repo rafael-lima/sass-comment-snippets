@@ -1,4 +1,3 @@
-sass-idiomatic-comment-snippets
-===============================
+# SASS Comment Snippets
 
-Idiomatic Comments Snippets to reuse on SASS projects.
+Idiomatic Comments Snippets for Sublime Text 2/3 for SASS projects.
