@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+// ==============================
+// *
+// * ${1:TODO}:
+// *
+// * -> ${2} 
+// * -> ${3}
+// * -> ${4}
+// * -> ${5}
+// *
+// ==============================
+]]></content>
+	<tabTrigger>sc-todo</tabTrigger>
+	<description>SASS Comments Snippets - TODO Comment</description>
+</snippet>

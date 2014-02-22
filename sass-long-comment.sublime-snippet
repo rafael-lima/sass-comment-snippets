@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+// ============================================================
+// *
+// * ${1}
+// *
+// ============================================================
+]]></content>
+	<tabTrigger>sc-long</tabTrigger>
+	<description>SASS Comments Snippets - Long Comment</description>
+</snippet>

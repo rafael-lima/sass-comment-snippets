@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+// ${1}
+]]></content>
+	<tabTrigger>sc-basic</tabTrigger>
+	<description>SASS Comments Snippets - Basic Comment</description>
+</snippet>

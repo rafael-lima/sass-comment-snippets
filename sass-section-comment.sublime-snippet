@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// ================================================================================
+// => ${1:SECTION}
+// ================================================================================
+]]></content>
+	<tabTrigger>sc-section</tabTrigger>
+	<description>SASS Comments Snippets - Section Comment</description>
+</snippet>

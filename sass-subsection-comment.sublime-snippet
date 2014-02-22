@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// -> ${1:Subsection}
+// ============================================================
+]]></content>
+	<tabTrigger>sc-sub</tabTrigger>
+	<description>SASS Comments Snippets - Subsection Comment</description>
+</snippet>
