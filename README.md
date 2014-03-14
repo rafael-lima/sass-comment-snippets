@@ -1,6 +1,6 @@
-# SASS Comment Snippets
+# SASS Idiomatic Comments
 
-> Idiomatic Comments Snippets to the Sublime Text 2/3 for awesome SASS projects.
+> Idiomatic Comments for reuse on SASS projects.
 
 ## License
 
